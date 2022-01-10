@@ -11,4 +11,4 @@ Mongoose.connect(process.env.URI, {
     console.log(`Connection Unsuccessfull.\n${err}`)
 });
 
-// process.env.URI <=> mongodb+srv://Polyon:Polyon01@cluster-intelliticks.3jxnu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
